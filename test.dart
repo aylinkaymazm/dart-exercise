@@ -1,3 +1,3 @@
 main(List<String> args) {
-  print("aaaaaaa");
+  print("");
 }
